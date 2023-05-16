@@ -1,0 +1,35 @@
+  .wireframe{
+    margin-top: 50px;
+  }
+  
+  .section {
+    min-width: 300px;
+    margin: 100px auto;
+  }
+
+  .table, th, td{
+    border: 1px solid rgba(128, 128, 128, 0.753);
+    border-collapse: collapse;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+  }
+
+  .input{
+    margin: 20px;
+    padding: 5px;
+  }
+
+  button{
+    text-decoration: none;
+    padding: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.753);
+    border-radius: 10px;
+    background-color: aliceblue;
+    cursor: pointer;
+  }
+
+  a{
+    text-decoration: none;
+    cursor: pointer;
+  }
